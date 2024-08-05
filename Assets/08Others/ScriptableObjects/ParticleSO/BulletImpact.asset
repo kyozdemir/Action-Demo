@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36aa16a221d25c549b9f2cb40b5d4a1e, type: 3}
+  m_Name: BulletImpact
+  m_EditorClassIdentifier: 
+  Name: BulletImpact
+  PoolParticleObject: {fileID: -4230391503076313193, guid: d7456e1f6e5242540b63b9042a2e3915, type: 3}

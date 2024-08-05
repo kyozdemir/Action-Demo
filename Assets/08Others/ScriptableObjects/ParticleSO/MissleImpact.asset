@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36aa16a221d25c549b9f2cb40b5d4a1e, type: 3}
+  m_Name: MissleImpact
+  m_EditorClassIdentifier: 
+  Name: MissleImpact
+  PoolParticleObject: {fileID: 3418478234353741209, guid: 662372284ddeee54fad3c2462587922e, type: 3}

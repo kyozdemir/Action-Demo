@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3788315a0d1fdc4999bc55930bd0a1f, type: 3}
+  m_Name: M4
+  m_EditorClassIdentifier: 
+  WeaponIdentity:
+    Name: M4
+    localPosition: {x: 0.09899996, y: 0.9039345, z: 0.38884366}
+    localRotation: {x: 1.5246536, y: 180, z: 0}
+  DamageAttributes:
+    ArmorPenetration: 15
+    AreaOfEffect: 0
+    Damage: 20
+    FireRate: 0.2
+    Range: 10
